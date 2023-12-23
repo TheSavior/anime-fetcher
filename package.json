@@ -1,0 +1,11 @@
+{
+  "name": "anime-fetch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "csv-stringify": "^6.4.5",
+    "jsdom": "^23.0.1"
+  }
+}
